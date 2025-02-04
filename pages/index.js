@@ -1,13 +1,15 @@
 function Home() {
   return (
     <h1>
-      Olá, irmão! eu sou feliz mas as vezes eu esqueço, se você também esquece
-      da uma risadinha! :) esse site eu criei no diretorio do github para fins
-      de aprendizado e publiquei gratuitamente no servidor da vercel, sabia que
-      da pra mim deixar meu site online usando meu próprio computador como
-      servidor? eu ainda não aprendi a fazer isso mas quase pelomenos aprendi
-      que da pra aprender hehe sorria de novo pra mim sentir que fazer um site
-      ta sendo útil. pronto atualizei.
+      Olá, determinado! O projeto será ajudar as pessoas a ser quem são a
+      qualquer momento e em qualquer lugar. O projeto deve ter em mente que
+      qualquer palavra com intenção de ajudar as pessoas a ser, deve ser
+      substituída por uma mesma palavra em repetitiva que é a ser. Por exemplo,
+      a palavra "eu" deve ser substituida por ser, a "determinado" também, essa
+      substituição deve ser priorizada acima de qualquer coisa e em qualquer
+      lugar mesmo que seja estranho e desconfortável a princípio mas também será
+      necessário encontrar mecanismos de tornar essas trocas e repetições
+      agradáveis para os clientes do site ao longo do projeto.
     </h1>
   );
 }
